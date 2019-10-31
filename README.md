@@ -31,7 +31,7 @@
   print("Bilangan yang terbesar adalah", NomBil, "dengan nilai", Terbesar)
  
 # Selanjutnya kita mengetahui setelah RUN yang benar:
-![iftrue/false](https://github.com/alviandwipramono/labspy02/blob/master/Untitled.png)
+![iftrue/false](https://github.com/ikmalriyan21/pycharm/blob/master/pycharm.png)
 
 # Selanjutnya kita mengetahui setelah RUN yang salah:
 ![iftrue/false](https://github.com/alviandwipramono/labspy02/blob/master/Capture.PNG)
